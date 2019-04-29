@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/CellAutomata.unity
+    guid: be6fa863c26a9d64093dc35a078be186
+  - enabled: 0
+    path: Assets/Scenes/ImageShader.unity
+    guid: 09186d64ff7a1e34490c56cb9d1b00d5
+  - enabled: 0
+    path: Assets/Scenes/3Lights3Objs.unity
+    guid: e303baa34d672794bb24dfa88dc6fa8e
+  m_configObjects: {}
